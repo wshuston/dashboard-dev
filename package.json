@@ -1,0 +1,19 @@
+{
+  "name": "dashboard-dev",
+  "version": "1.0.0",
+  "description": "For Hot On! Homes internal dashboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wshuston/dashboard-dev.git"
+  },
+  "author": "Wes Huston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wshuston/dashboard-dev/issues"
+  },
+  "homepage": "https://github.com/wshuston/dashboard-dev"
+}
